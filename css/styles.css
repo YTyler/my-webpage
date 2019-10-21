@@ -1,0 +1,40 @@
+body {
+  color: #DEDEDE;
+  background-color: #1D1F53;
+}
+h1 {
+  text-decoration: underline;
+}
+.side {
+  font-size: 20px;
+  font-weight: bold;
+  padding-right: 10px;
+  border-right: 4px solid #2A2A2E;
+}
+.well {
+  color: #171719;
+  text-align: center;
+}
+.panel-body {
+  color: #171719;
+}
+.title {
+  font-weight: bold;
+  font-size: 16px;
+}
+.city {
+  text-decoration: underline;
+}
+footer {
+  background-color: #2A2A2E;
+  margin-top: 5%;
+}
+img{
+  padding: 5px
+}
+#name {
+  font-size: 70px;
+}
+#projects {
+  text-align: left;
+}
